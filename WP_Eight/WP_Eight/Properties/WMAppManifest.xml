@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Deployment xmlns="http://schemas.microsoft.com/windowsphone/2012/deployment" AppPlatformVersion="8.0">
   <DefaultLanguage xmlns="" code="zh-CN" />
-  <App xmlns="" ProductID="{da6d9971-bde9-42d9-aa41-ea3a07b1b3e4}" Title="WP_Eight" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="WP_Eight author" Description="Sample description" Publisher="WP_Eight" PublisherID="{824cfcf0-a1a3-442b-9c46-3d278d05f9d0}">
+  <App xmlns="" ProductID="{d237ada3-9ef5-4179-8eb0-549edf42ec9e}" Title="WP_Eight" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="WP_Eight author" Description="Sample description" Publisher="WP_Eight" PublisherID="{14ece8e4-8239-41b6-b095-705a0d302541}">
     <IconPath IsRelative="true" IsResource="false">Assets\ApplicationIcon.png</IconPath>
     <Capabilities>
       <Capability Name="ID_CAP_NETWORKING" />
@@ -11,7 +11,7 @@
       <Capability Name="ID_CAP_WEBBROWSERCOMPONENT" />
     </Capabilities>
     <Tasks>
-      <DefaultTask Name="_default" NavigationPage="ImageDemo.xaml" />
+      <DefaultTask Name="_default" NavigationPage="ManipulationEventDemo84.xaml" />
     </Tasks>
     <Tokens>
       <PrimaryToken TokenID="WP_EightToken" TaskName="_default">
